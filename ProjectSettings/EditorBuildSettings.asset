@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 0
+    path: Assets/AndroidGallery/Demo/Demo.unity
+    guid: b2f58c28e4fe6dd4db99104f82848284
+  - enabled: 0
+    path: Assets/[package]PhotoCropper/Demo/Demo Scene.unity
+    guid: 8a022776e4c6a43dda020b6162f238fc
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 23db4d5252dbbcd4f9036afa229785a7, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9c0ac104f4e78754f93a48dbc080c4b5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6c89c579062eb07408da275eb310dec9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 211ff644550dd7f42a09099e5955a5b3, type: 2}
